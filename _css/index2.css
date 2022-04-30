@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+#conatiner{
+    width: 1050px;
+    height: 616px;
+    margin: 0 auto;
+}
+
+#banner{
+    width: 80%;
+    height: 187px;
+    background: #000;
+    color: white;
+    margin-left: 180px;
+}
+
+#link{
+    width: 537px;
+    height: 800px;
+    background: rgb(212, 116, 38);
+    color: white;
+    margin-left: 180px;
+
+}
+
+#texto{
+    width: 1085px;
+    height: 800px;
+    margin-top: -800px;
+    margin-left: 617px;
+    background: blue;
+    color: white;
+
+}
+
+#footer{
+    width: 79.7%;
+    height: 50px;
+    margin: 0 auto 200;
+    text-align: center;
+    border: solid;
+    color: red;
+    margin-left: 180px;
+
+}
+
+#img1{
+    width: 100%;
+    height: 100%;
+
+}
+#video{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
